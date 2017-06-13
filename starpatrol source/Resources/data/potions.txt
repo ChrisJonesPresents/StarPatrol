@@ -1,0 +1,16 @@
+2
+POTION
+1
+Roast Chicken #
+Tastey chicken, restores 10 HP #
+50 
+0 0 
+9
+
+POTION
+1
+Coffee #
+Refreshing beverage, restores 5 EP #
+50 
+0 1 
+10

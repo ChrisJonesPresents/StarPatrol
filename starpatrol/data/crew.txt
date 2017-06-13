@@ -1,0 +1,7 @@
+1
+CREW
+redshirts #
+It is a credit to the star patrol marketing department that despite shocking levels of attrition there are still ample recruits ready to don the red in the patrol's service. Attk: 3 Def: 3 #
+REDSHIRT
+3 3 13 5 0 0 1 0
+0 0 1 1

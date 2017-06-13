@@ -1,0 +1,114 @@
+14
+House #
+1 0
+A standard colonial dwelling. Provides 1 unit of workers. #
+1 0
+3 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 0 0
+
+Apartments #
+0 1
+A high density colonial dwelling. Provides 3 units of workers. #
+2 0
+1 2 0 0
+0 0 0 1 0 0 0 0
+1 3 0 0 0 0
+
+Mine #
+0 0
+An unmechanized ore mine. Provides 1 unit of ore per year. #
+1 1
+0 3 0 0
+0 0 0 0 0 0 0 0
+2 1 0 0 0 0
+
+Refinery #
+0 0
+Produces 1 unit of atomics, the fuel of the future, each year. #
+1 3
+0 0 3 0
+0 0 0 0 0 0 0 0
+3 1 0 0 0 0
+
+
+Farm #
+0 0
+A rural farm. Provides 1 unit of food. #
+1 2
+2 1 0 0
+0 0 0 0 0 0 0 0
+4 1 0 0 0 0
+
+Factory #
+0 0
+A factory, the beating heart of industry. Provides 1 unit of industrial goods. #
+1 4
+2 2 2 0
+1 1 0 0 0 0 0 0
+5 1 0 0 0 0
+
+Fuel station #
+0 0
+Converts atomics into spaceship fuel. Provides 40 units of atomic fuel every year. #
+1 5
+0 2 2 0
+0 0 1 0 0 0 0 0
+-3 40 0 0 0 0
+
+Munitions factory #
+0 0
+Uses industry to convert atomics into spacecraft ordinance. Provides 20 units of atomic ordinance. #
+1 6
+0 3 3 0
+0 0 1 0 1 0 0 0
+-4 20 0 0 0 0
+
+Repair crew #
+0 0
+Uses spares provided by industry to patch up spacecraft. Provides 20 units of repairs every year. #
+1 7
+3 0 3 0
+1 0 0 0 1 0 0 0
+-2 20 0 0 0 0
+
+Rocket factory #
+0 0
+A factory that produces rocketry systems suitable for use as spacecraft modules. Provides 1 module. #
+3 0
+0 3 3 0
+0 0 0 0 2 0 0 0
+-1 1 0 0 0 0
+
+Shuttle Pad #
+0 0
+A pad for trade shuttles to land and take off carrying cargo. Allows resources from this colony to be shared with adjacent colonies. #
+3 1
+1 1 1 0
+0 0 1 0 0 0 0 0
+10 1 0 0 0 0
+
+Military Base #
+0 0
+A Patrol base, home to several squads of redshirts and space to orbit lasers. provides rank 2 colony defence against threats. #
+3 2
+0 2 3 0
+1 0 1 0 1 0 0 0
+11 2 0 0 0 0
+
+Nuclear power plant#
+0 0
+A fission pile that produces one unit of mega energy. #
+3 3
+0 0 3 0
+0 0 0 0 0 0 0 0
+7 1 0 0 0 0
+
+
+Tech Factory#
+0 0
+A high factory that produces energetic high technology devices suitable for use aboard spacecraft. #
+3 4
+0 0 2 1
+0 0 0 0 2 0 1 0
+-1 2 0 0 0 0

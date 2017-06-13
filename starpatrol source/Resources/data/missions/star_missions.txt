@@ -1,0 +1,51 @@
+3
+MISSION
+1 1
+Smug Head #
+1
+STAGE 1 Smug Head # TEXT 3 0 0 1 0 0 0
+1
+ STAGE 1 Smug Head # BATTLE 1 100 0 0 0 0 0
+ 1 
+  STAGE 1 Smug Head # REWARD 3 25 4 1 0 0 5
+  1
+   STAGE 1 Smug Head # COMPLETE 0 0 0 0 0 0 0
+
+  0
+ 0
+0
+MISSION
+1 1
+Meteor shower #
+1
+STAGE 1 Meteor shower # TEXT 8 0 0 1 0 0 0
+1
+ STAGE 1 Meteor shower # PUNISH 1 4 12 0 0 0 3
+ 1 
+  STAGE 1 Meteor shower # COMPLETE 0 0 0 0 0 0 0
+
+ 0
+0
+
+MISSION
+2 1
+Pirate #
+1
+STAGE 1 Pirate # CHOICE 8 0 3 4 4 100 0
+1
+ STAGE 1 Pirate # PUNISH 3 100 0 0 0 0 0
+ 1 
+  STAGE 1 PIRATE # COMPLETE 0 0 0 0 0 0 0
+
+ 0
+1
+ STAGE 1 Pirate # BATTLE 5 100 0 0 0 0 0
+ 1 
+  STAGE 1 Pirate # REWARD 3 100 0 0 0 0 5
+  1
+   STAGE 1 Pirate # COMPLETE 0 0 0 0 0 0 0
+
+  0
+ 0
+0
+

@@ -1,0 +1,32 @@
+2
+MISSION
+1 1
+Smug Head #
+1
+STAGE 1 Smug Head # CHOICE 0 0 0 1 0 0 0
+1
+ STAGE 1 Smug Head # BATTLE 0 100 0 0 0 0 0
+ 1 
+  STAGE 1 Smug Head # REWARD 3 25 5 1 0 0 5
+  1
+   STAGE 1 Smug Head # COMPLETE 0 0 0 0 0 0 0
+   0 
+  0
+ 0
+0
+
+MISSION
+2 1
+Thudder #
+1
+STAGE 1 Thudder # CHOICE 0 0 0 1 0 0 0
+1
+ STAGE 1 Thudder # BATTLE 2 100 2 100 0 0 0
+ 1 
+  STAGE 1 Thudder # REWARD 3 50 0 0 0 0 5
+  1
+   STAGE 1 Thudder # COMPLETE 0 0 0 0 0 0 0
+   0 
+  0
+ 0
+0

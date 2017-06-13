@@ -1,0 +1,89 @@
+9
+ABILITY
+0
+Crimson Causality #
+Let the inevitable happen, increases chance of being targeted. #
+2 5 
+BUFF 
+SELF ALL 1 0 TARGETRATE 60 5 
+NONE 
+
+
+ABILITY
+1
+Punch #
+Fisticuffs prevails where rayguns fail, impact attack #
+2 0
+ATTACK
+TARGET ALL 0 4 0 2 IMPACT
+NONE
+
+
+ABILITY
+2 
+Never Give Up #
+Sometimes all you need is to stiffen your friend's resolve, group defence boost #
+3 5
+BUFF
+ALLIES ALL 1 8 DEFENCE 5 5
+NONE
+
+
+ABILITY
+3
+Rip Shirt #
+Ripping ones shirt apparently increases ones offensive capabilities, scientists have dubbed it the 'Tiberius effect'. #
+2 5
+BUFF
+SELF ALL 1 12 ATTACK 5 5
+NONE
+
+ABILITY
+4 
+Humanity Speech #
+Aliens tend to be easily confused by a bold captainly speech, which is why it's taught at the academy. Chance to stun all aliens briefly. #
+3 3
+DEBUFF
+ENEMIES ALIENS 2 0 STUN 1 1 75
+NONE 
+
+
+ABILITY
+5
+Shoot to kill #
+'Just Kill everyone and let the board of inquiry sort it out' -captain Harmsway, shoot all enemies with an energy attack #
+2 5
+ATTACK
+ENEMIES ALL 2 4 0 2 ENERGY
+NONE
+
+
+ABILITY 
+6 
+Inspiration #
+When in ones darkest hour, a speech can restore ones hopes, or make them fear you more than the enemy. Either way it recovers the team's energies. #
+0 10
+RECOVER
+ALLIES ALL 2 8 ENERGY 5
+NONE
+
+ABILITY 
+7 
+EnergyShield #
+description. #
+2 5 
+BUFF 
+SELF ALL 1 4 ENERGYDEF 3 5 
+NONE 
+
+ABILITY
+8
+Poison whip #
+#
+1 0
+ATTACK
+TARGET ALL 0 4 0 2 IMPACT
+DEBUFF
+TARGET ORGANIC 2 4 HEALTH 1 10 50
+
+

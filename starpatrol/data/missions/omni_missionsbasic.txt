@@ -1,0 +1,10 @@
+1
+MISSION
+1
+Smug Head #
+1
+2
+1
+STAGE Smug Head # REWARD 3 50 0 0 0 0 50
+1
+STAGE Smug Head # COMPLETE 0 0 0 0 0 0 0

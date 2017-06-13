@@ -1,0 +1,19 @@
+TEXT 0
+A hostile alien vessel has been detected here, warbook indicates TAG design #
+TEXT 2
+An alien base has been detected, communication intercepts indicates the presence TAG hostiles. #
+
+TEXT 3
+A hostile TAG warship was lying in wait as you came out of warp and moves in to attack! battlestations! #
+
+TEXT 4
+A hostile TAG warship has come upon us in orbit. battlestations! #
+
+TEXT 5
+It's the wreck of an alien warship, military supplies might be aboard #
+
+TEXT 6
+It's the wreck of an alien freighter, it should contain some valuable resources #
+
+TEXT 7
+It wasn't a ship wreck at all, we've unearthed a BERSERKER! battlestations! #

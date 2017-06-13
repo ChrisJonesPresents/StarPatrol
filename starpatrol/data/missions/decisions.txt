@@ -1,0 +1,25 @@
+TEXT 0
+A hostile alien vessel has been detected here, warbook indicates TAG design. Should we engage? # 
+
+TEXT 1
+A hostile alien vessel has been detected adrift here, Warbook indicates TAG design. If we board it we might be able to take it intact, shall I take her in captain? #
+
+TEXT 2
+An alien base has been detected, communication intercepts indicates the presence TAG hostiles. If we eliminate their commander the remainder should be easily dispersed. Shall we launch an incursion captain? #
+
+TEXT 3
+A TAG ship is planning to do one of our colonies a mischief, shall we intervene? #
+
+TEXT 4
+We have happened upon an alien trader while waiting in orbit. Perhaps we should see their wares, shall we investigate captain? #
+
+#TEXT 5
+This planet looks like a good place to conduct a TAG hunt. So how about we all go down there, find the terrible beasty and kill it. I bet it's head would look good on the wall. How about it captain?
+#
+
+TEXT 6
+The TAG ship has been disabled, but it's too large for our weaponry to fully neutralize. We'll need to board it and trigger the self destruct from the bridge if we're to destroy it.
+#
+
+TEXT 7
+Imaging has detected what may be a spacecraft wreck trapped underneath the ice. We have the means to unearth it and it may contain valuables. Shall we proceed? #

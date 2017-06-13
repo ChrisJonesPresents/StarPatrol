@@ -1,0 +1,66 @@
+6
+ENEMY 0
+Smug Head #
+3 15 3 
+1 1 1
+0 0 1 1
+ALIEN
+-1 -1 -1
+NAME is liquidated by a smug head ray #
+NAME is reduced to a puddle of goo by a smug head ray #
+NAME's flesh melts from their bones under a smug head ray #
+
+ENEMY 1
+Smug Head elite #
+4 20 3 
+1 1 1
+0 1 1 1
+ALIEN
+7 -1 -1
+NAME is liquidated by a smug head ray #
+NAME is reduced to a puddle of goo by a smug head ray #
+NAME's flesh melts from their bones under a smug head ray #
+
+ENEMY 2
+Star Dragon #
+5 30 3 
+1 3 1
+0 2 2 1
+BEAST
+-1 -1 -1
+NAME is chewed up messily by a star dragon #
+NAME is swallowed whole by a star dragon #
+NAME's head is bitten off by a star dragon #
+
+ENEMY 3
+Whipper #
+4 10 2 
+1 3 1
+0 3 1 1
+BEAST
+8 -1 -1
+NAME is impaled by a whipper tendril #
+NAME is lashed to ribbons by a whipper #
+NAME is seized and pulled asunder by a whipper #
+
+ENEMY 4
+Robot #
+4 10 4 
+4 3 1
+1 0 1 1
+ROBOT
+-1 -1 -1
+NAME is crushed by a robot #
+NAME is greased by a robot #
+NAME is smashed by a robot #
+
+ENEMY 5
+Conqueror worm #
+4 30 4 
+1 1 1
+1 1 1 1
+ALIEN
+-1 -1 -1
+NAME is vaporized by the worm #
+NAME is atomized by the worm #
+NAME is turned to ash by the worm #

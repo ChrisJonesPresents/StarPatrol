@@ -1,0 +1,45 @@
+2
+MISSION
+0 2 100 
+1
+Smug Head #
+1
+STAGE 1 Smug Head # CHOICE 3 0 0 1 0 0 0
+1
+ STAGE 1 Smug Head # BATTLE 0 100 0 0 0 0 0
+ 1 
+  STAGE 1 Smug Head # REWARD 3 25 0 0 0 0 5
+  1
+   STAGE 1 Smug Head # COMPLETE 0 0 0 0 0 0 0
+   0 
+  0
+ 0
+0
+A TAG ship is threatening our colony of COLONY, if we don't intervene before DATE then our colony may be harmed. #
+A TAG ship bombarded COLONY, DAMAGE was destroyed by the attack. #
+A TAG ship bombarded COLONY, but was destroyed by the colony defences before it could cause any harm. #
+MISSION
+0 3 150 
+1
+Conqueror Worm #
+1
+STAGE 1 Conqueror Worm # CHOICE 3 0 0 1 0 0 0
+1
+ STAGE 1 Conqueror Worm # BATTLE 3 100 0 0 0 0 0
+ 1 
+  STAGE 1 Conqueror Worm # CHOICE 6 0 0 1 0 0 0
+  1
+   STAGE 1 Conqueror Worm # EXPLORE 0 0 0 5 4 0 0
+   1 
+    STAGE 1 Conqueror Worm # REWARD 8 1 3 50 0 0 5
+    1
+     STAGE 1 Conqueror Worm # COMPLETE 0 0 0 0 0 0 0
+     0
+    0
+   0 
+  0
+ 0
+0
+A TAG ship is threatening our colony of COLONY, if we don't intervene before DATE then our colony may be harmed. #
+A TAG ship bombarded COLONY, DAMAGE was destroyed by the attack. #
+A TAG ship bombarded COLONY, but was destroyed by the colony defences before it could cause any harm. #

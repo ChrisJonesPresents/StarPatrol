@@ -1,0 +1,5 @@
+TEXT 0
+The good ship SHIP has met its end. Its sundering hull spilling forth air, fire and redshirts as it succumbs. It would seem that your assignment to this sector has met a terrible end, but perhaps your successor will do better? #
+
+TEXT 1
+IT would seem that you've met a grisly end captain CAPTAIN. As such you can no longer  protect your assigned sector, but perhaps the next captain we assign will be more lucky? #

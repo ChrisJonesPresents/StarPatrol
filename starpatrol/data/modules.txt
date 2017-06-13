@@ -1,0 +1,92 @@
+12
+ABILITYMODULE
+Laser cannon #
+A bog standard issue energy weapon firing a beam
+of coherent light. 6 Damage, 1 penetration #
+1 0 -1
+250
+0
+
+BOOSTERMODULE
+Rocket Engine #
+A chemical rocket engine, handy for combat manouvering. +2 evasion #
+4 0 1
+150
+DODGE 2
+2 0
+
+ABILITYMODULE
+Bomblet screen#
+Launches a field of autonomous defence mines to intercept incoming missiles. +6 PD when active. 2 ordinance consumed on activation. #
+3 0 1
+250
+10
+
+
+BOOSTERMODULE
+Armour plating #
+Metallic armour plating to increase craft durability, +10 hull #
+4 3 1
+200
+HULL 10
+2 0
+
+
+ABILITYMODULE
+torpedo launcher #
+A star patrol issue nuclear missile launcher for space combat #
+2 0 1
+400
+5
+
+ABILITYMODULE
+Afterburner#
+An engine augment to increase STL thrust in combat, not terribly fuel efficient, but effective. +6 evasion when active. 2 fuel burned on activation. #
+3 1 1
+250
+9
+
+ABILITYMODULE
+Heavy laser cannon #
+An extremely high intensity laser. Dmg: 7 Pen: 2.5 #
+7 1 -1
+400
+1
+
+BOOSTERMODULE
+Electro shield #
+A starship energy defence field to deflect beam weapons. +2 deflection defence #
+4 5 2
+500
+DEFLECT 2
+2 0
+
+ABILITYMODULE
+Force barrier #
+An extremely intense forcefield projector. Cannot be run continously but boosts deflection by +6 until it overheats and has to shut down. #
+3 2 2
+600
+8
+
+BOOSTERMODULE
+Point Defence Laser #
+A small laser system that shoots down incoming missiles. provides intercept +3 #
+4 4 2
+600
+INTERCEPT 3
+15 0
+
+BOOSTERMODULE
+Warp Engine #
+While your ship of course already mounts a warp engine extra engines can push the craft even further beyond lightspeed. #
+4 4 2
+700
+FTL 2
+14 0
+
+ABILITYMODULE
+Railgun #
+Uses an electrical discharge to launch a metal slug to incredible velocities. dmg: 7 pen: 1 #
+5 0 3
+300
+6

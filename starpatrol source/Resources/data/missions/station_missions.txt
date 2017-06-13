@@ -1,0 +1,15 @@
+1
+MISSION
+1 1
+Smug Head #
+1
+STAGE 1 Smug Head # CHOICE 0 0 0 1 0 0 0
+1
+ STAGE 1 Smug Head # BATTLE 0 100 0 0 0 0 0
+ 1 
+  STAGE 1 Smug Head # REWARD 3 25 5 1 0 0 5
+  1
+   STAGE 1 Smug Head # COMPLETE 0 0 0 0 0 0 0 
+  0
+ 0
+0

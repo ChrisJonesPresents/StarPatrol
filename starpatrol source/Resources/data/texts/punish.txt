@@ -1,0 +1,8 @@
+TEXT 1
+Your ship suffered VALUE hull damage #
+
+TEXT 2
+Your ship has lost VALUE units of fuel #
+
+TEXT 3
+VALUE credits removed from account #
